@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Boxuegu</string>
+    <string name="app_name">博学谷</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
